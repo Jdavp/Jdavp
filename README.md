@@ -4,6 +4,8 @@
 
 **⚡🔭I’m looking to collaborate, work and learn about any project kind of project.😄**
 
+<img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/fluent/48/000000/github.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
+
 ![Juan's github stats](https://github-readme-stats.vercel.app/api?username=Jdavp&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdavp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
