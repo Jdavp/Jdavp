@@ -2,7 +2,7 @@
 
 **🌱 I’m a Full Stack Developer.**
 
-**⚡🔭I’m looking to collaborate, work and learn about any project kind of project.😄**
+**⚡🔭I’m looking to collaborate, work and learn about any kind of project.😄**
 
 <img src="https://img.icons8.com/color/48/000000/python.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/fluent/48/000000/github.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/>
 
